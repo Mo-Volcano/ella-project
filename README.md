@@ -1,5 +1,3 @@
-# ella-project
-
 # ella-project  
 
 A demo **e-commerce store** built with **Vue 3**, **Vuetify**, and **Pinia** using **dummy data**.  
